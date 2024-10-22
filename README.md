@@ -5,7 +5,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/HTML-05122A?style=flat&html&logoColor=05122A">
+  <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="40" src="h">
   <img align="center" alt="Js" height="30" width="40" src="">
   <img align="center" alt="Js" height="30" width="40" src="">
