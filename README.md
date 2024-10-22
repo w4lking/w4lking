@@ -5,7 +5,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https//img.shelds.io/badge/HTML-05122A?Style=flat&logo=html">
+  <img align="center" alt="HTML" height="30" width="40" src="https//img.shelds.io/badge/Python-05122A?Style=flat&logo=python">
   <img align="center" alt="CSS" height="30" width="40" src="h">
   <img align="center" alt="Js" height="30" width="40" src="">
   <img align="center" alt="Js" height="30" width="40" src="">
